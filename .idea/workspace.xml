@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c88032e7-a491-4d52-9572-1d7db072c78f" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="c88032e7-a491-4d52-9572-1d7db072c78f" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <updated>1585064536454</updated>
       <workItem from="1585064537541" duration="4021000" />
       <workItem from="1585105091353" duration="335000" />
-      <workItem from="1585108235614" duration="95000" />
+      <workItem from="1585108235614" duration="769000" />
     </task>
     <servers />
   </component>
