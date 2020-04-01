@@ -114,7 +114,7 @@ with open(filename, "w+", encoding="utf_8_sig", newline="") as csv_file:
         data_row = [wuhan_DayAdd[i]["date"], wuhan_DayAdd[i]["wuhan"]["confirmAdd"],
                     wuhan_DayAdd[i]["notWuhan"]["confirmAdd"], wuhan_DayAdd[i]["notHubei"]["confirmAdd"], ]
         writer.writerow(data_row)
-
+'''
 # 全球实时数据及历史数据
 ## 获取全球各地区实时数据
 global_data = data_world["foreignList"]
@@ -201,3 +201,4 @@ for j in dictt.keys():
                     data_row = [j, city_name, date, nameMap, total_confirm, total_suspect, total_dead, total_heal,
                                 confirmAdd, lastUpdateTime]
                     writer.writerow(data_row)
+'''
