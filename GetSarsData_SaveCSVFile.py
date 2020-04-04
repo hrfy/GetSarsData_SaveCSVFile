@@ -26,6 +26,7 @@ def catch_data2():
     return data_2
 data_world = catch_data2()
 
+
 lastUpdateTime = data_china["lastUpdateTime"]   # 腾讯最近更新时间
 directory = ""                                  # 定义数据保存路径
 
